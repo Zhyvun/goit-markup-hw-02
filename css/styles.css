@@ -80,6 +80,7 @@ address a.decoration {
 }
 /* Button */
 .primary-button {
+  cursor: pointer;
   font-size: 16px;
   font-weight: 700;
   color: var(--color-bacground-basic);
@@ -102,6 +103,7 @@ address a.decoration {
 }
 
 .portfolio-button button {
+  cursor: pointer;
   background-color: #f5f4fa;
   position: absolute;
   border: 1px solid var(--color-bacground-basic);
