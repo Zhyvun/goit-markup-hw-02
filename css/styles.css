@@ -1,4 +1,4 @@
-/* -- Загальне (start) -- */
+/* -- Загальне -- */
 :root {
   --color-basic: #212121;
   --color-minor: #757575;
@@ -62,7 +62,6 @@ body {
 .current {
   color: var(--color-current);
 }
-/* -- Загальне (finish) -- */
 
 /* header*/
 /* Скасовуємо підкреслення у посилань */
